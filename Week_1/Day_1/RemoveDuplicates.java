@@ -1,4 +1,4 @@
-package Week_1.Day_2;
+package Week_1.Day_1;
 
 /*
 Problem: Remove  Duplicates from Sorted Array
