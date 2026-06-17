@@ -4,7 +4,7 @@ import java.util.Stack;
 
 /*
 
-Problem :Middle Node
+Problem :Valid Parenthesis
 
 Approach:
 Use stack to match opening and closing brackets.
