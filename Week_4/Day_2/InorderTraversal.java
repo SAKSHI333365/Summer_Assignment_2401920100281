@@ -5,7 +5,7 @@ import java.util.List;
 
 /*
 
-Problem :Same Tree.
+Problem :Inorder Traversal.
 
 Approach:
 Use DFS recursion.
