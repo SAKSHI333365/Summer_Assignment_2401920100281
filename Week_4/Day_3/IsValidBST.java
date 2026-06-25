@@ -2,13 +2,13 @@ package Week_4.Day_3;
 
 /*
 
-Problem :LCA of a Binary Search Tree.
+Problem :Validate Binary Search Tree.
 
 Approach:
-Use BST property.
+Use  DFS with min and max bounds.
 
-Time Complexity:O(h)
-Space Complexity:O(1)
+Time Complexity:O(n)
+Space Complexity:O(h)
 
 */
 
