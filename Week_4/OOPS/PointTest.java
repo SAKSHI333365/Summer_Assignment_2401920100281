@@ -1,16 +1,16 @@
 package Week_4.OOPS;
 
-class PointTest {
+class Point {
 
     private int x;
     private int y;
 
-    public PointTest() {
+    public Point() {
         x = 0;
         y = 0;
     }
 
-    public PointTest(int x, int y) {
+    public Point(int x, int y) {
         this.x = x;
         this.y = y;
     }
@@ -36,10 +36,10 @@ class PointTest {
 public class PointTest {
 
     public static void main(String[] args) {
-        PointTest p1 = new PointTest();
+        Point p1 = new Point();
         p1.display();
 
-        PointTest p2 = new PointTest(10, 20);
+        Point p2 = new Point(10, 20);
         p2.display();
 
         p1.setX(5);
